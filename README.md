@@ -1,12 +1,10 @@
-- 👋 Hi, I’m Mohamed Jamal Irfan
-- 👀 I’m interested in Web Development and also software Development
-- 🌱 I’m currently learning Java and Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Mohamed Jamal Irfan
 
-<!---
-IrfanS02/IrfanS02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about Web Development and Software Development.  
+- 🌱 I’m currently learning Java, JavaScript, and exploring full-stack development.  
+- 💡 I’m looking to collaborate on innovative web applications and open-source projects.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/IrfanS02)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love solving algorithmic challenges and have completed 250+ LeetCode problems.  
+
+🚀 Let's build something amazing together!  
